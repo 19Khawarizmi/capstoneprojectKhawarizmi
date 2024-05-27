@@ -28,8 +28,8 @@ Validasi dan Pengulangan:
 Terdapat validasi untuk ketersediaan kamar, panjang nomor KTP, dan penanganan kasus-kasus khusus seperti pasien yang sudah keluar dari rumah sakit.
 Pengguna diberikan opsi untuk kembali ke menu utama setelah operasi selesai untuk kenyamanan dan navigasi yang lebih baik.
 Dengan penjelasan ini, pembaca dapat memahami struktur dan fungsionalitas utama dari proyek Data Pasien CRUD Project ini.
-
-from datetime import datetime
+# Import Datetime
+      from datetime import datetime
 
 # Collection data types
       patients = []
