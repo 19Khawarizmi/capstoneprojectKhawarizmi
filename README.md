@@ -1,4 +1,4 @@
-# capstone-project-modul-1-Purwadhika=Khawarizmi
+# capstone-project-modul-1-Purwadhika-Khawarizmi
 
 Judul: "Data Pasien CRUD Project"
 Deskripsi: Proyek ini adalah implementasi dari aplikasi manajemen data pasien rumah sakit menggunakan Python. Aplikasi ini memungkinkan pengguna untuk melakukan operasi dasar CRUD (Create, Read, Update, Delete) pada data pasien, seperti menambahkan, melihat, memperbarui, dan menghapus data pasien.
